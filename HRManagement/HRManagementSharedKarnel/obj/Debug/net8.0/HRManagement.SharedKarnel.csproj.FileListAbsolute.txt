@@ -1,0 +1,13 @@
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\bin\Debug\net8.0\HRManagement.SharedKarnel.deps.json
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\bin\Debug\net8.0\HRManagement.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\bin\Debug\net8.0\HRManagement.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.AssemblyInfoInputs.cache
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.AssemblyInfo.cs
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.csproj.CoreCompileInputs.cache
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.sourcelink.json
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\refint\HRManagement.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\ref\HRManagement.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HRManagement\HRManagementSharedKarnel\obj\Debug\net8.0\HRManagement.SharedKarnel.csproj.AssemblyReference.cache
