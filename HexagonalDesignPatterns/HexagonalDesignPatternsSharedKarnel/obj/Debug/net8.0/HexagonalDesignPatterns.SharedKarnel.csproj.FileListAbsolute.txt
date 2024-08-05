@@ -1,0 +1,12 @@
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\bin\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.deps.json
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\bin\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\bin\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.AssemblyInfoInputs.cache
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.AssemblyInfo.cs
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.csproj.CoreCompileInputs.cache
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.sourcelink.json
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\refint\HexagonalDesignPatterns.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\HexagonalDesignPatterns.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsSharedKarnel\obj\Debug\net8.0\ref\HexagonalDesignPatterns.SharedKarnel.dll

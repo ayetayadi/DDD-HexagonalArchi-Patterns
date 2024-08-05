@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalDesignPatterns.API", "HexagonalDesignPatternsAPI\HexagonalDesignPatterns.API.csproj", "{6FFC71B9-0169-418A-B1F5-75728A614D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalDesignPatterns.Domain", "HexagonalDesignPatternsDomain\HexagonalDesignPatterns.Domain.csproj", "{BCEE10B0-CA0E-45AF-A432-73BCF5EBDB4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalDesignPatterns.Infrastructure", "HexagonalDesignPatternsInfrastructure\HexagonalDesignPatterns.Infrastructure.csproj", "{42C2C6AE-7544-41FD-9770-B9C7DF49E9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalDesignPatterns.Application", "HexagonalDesignPatternsApplication\HexagonalDesignPatterns.Application.csproj", "{32C34104-CE57-44C6-A306-7017855F5308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalDesignPatterns.SharedKarnel", "HexagonalDesignPatternsSharedKarnel\HexagonalDesignPatterns.SharedKarnel.csproj", "{FF9367F9-0962-43FC-AA28-1A00AB579D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FFC71B9-0169-418A-B1F5-75728A614D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFC71B9-0169-418A-B1F5-75728A614D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFC71B9-0169-418A-B1F5-75728A614D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFC71B9-0169-418A-B1F5-75728A614D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEE10B0-CA0E-45AF-A432-73BCF5EBDB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEE10B0-CA0E-45AF-A432-73BCF5EBDB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEE10B0-CA0E-45AF-A432-73BCF5EBDB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEE10B0-CA0E-45AF-A432-73BCF5EBDB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C2C6AE-7544-41FD-9770-B9C7DF49E9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C2C6AE-7544-41FD-9770-B9C7DF49E9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C2C6AE-7544-41FD-9770-B9C7DF49E9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C2C6AE-7544-41FD-9770-B9C7DF49E9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C34104-CE57-44C6-A306-7017855F5308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C34104-CE57-44C6-A306-7017855F5308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C34104-CE57-44C6-A306-7017855F5308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C34104-CE57-44C6-A306-7017855F5308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9367F9-0962-43FC-AA28-1A00AB579D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9367F9-0962-43FC-AA28-1A00AB579D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9367F9-0962-43FC-AA28-1A00AB579D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9367F9-0962-43FC-AA28-1A00AB579D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F74BBAB-7D9D-4D68-A603-5C7FE625631E}
+	EndGlobalSection
+EndGlobal

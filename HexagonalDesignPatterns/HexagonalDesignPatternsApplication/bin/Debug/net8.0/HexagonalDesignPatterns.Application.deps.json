@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HexagonalDesignPatterns.Application/1.0.0": {
+        "dependencies": {
+          "HexagonalDesignPatterns.Domain": "1.0.0",
+          "HexagonalDesignPatterns.SharedKarnel": "1.0.0"
+        },
+        "runtime": {
+          "HexagonalDesignPatterns.Application.dll": {}
+        }
+      },
+      "HexagonalDesignPatterns.Domain/1.0.0": {
+        "runtime": {
+          "HexagonalDesignPatterns.Domain.dll": {}
+        }
+      },
+      "HexagonalDesignPatterns.SharedKarnel/1.0.0": {
+        "runtime": {
+          "HexagonalDesignPatterns.SharedKarnel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HexagonalDesignPatterns.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HexagonalDesignPatterns.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HexagonalDesignPatterns.SharedKarnel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

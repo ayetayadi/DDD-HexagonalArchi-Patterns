@@ -1,0 +1,12 @@
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\bin\Debug\net8.0\HexagonalDesignPatterns.Domain.deps.json
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\bin\Debug\net8.0\HexagonalDesignPatterns.Domain.dll
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\bin\Debug\net8.0\HexagonalDesignPatterns.Domain.pdb
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\HexagonalDesignPatterns.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\HexagonalDesignPatterns.Domain.AssemblyInfoInputs.cache
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\HexagonalDesignPatterns.Domain.AssemblyInfo.cs
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\HexagonalDesignPatterns.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\HexagonalDesignPatterns.Domain.sourcelink.json
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\HexagonalDesignPatterns.Domain.dll
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\refint\HexagonalDesignPatterns.Domain.dll
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\HexagonalDesignPatterns.Domain.pdb
+C:\Users\ayeta\source\repos\HexagonalDesignPatterns\HexagonalDesignPatternsDomain\obj\Debug\net8.0\ref\HexagonalDesignPatterns.Domain.dll
