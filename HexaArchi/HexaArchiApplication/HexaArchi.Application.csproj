@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DTOs\AuthorDTO\DeleteAuthor.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HexaArchiDomain\HexaArchi.Domain.csproj" />
+    <ProjectReference Include="..\HexaArchiSharedKarnel\HexaArchi.SharedKarnel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="DTOs\AuthorDTO\DeleteAuthor.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>

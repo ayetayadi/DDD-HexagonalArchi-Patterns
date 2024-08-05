@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchi.API", "HexaArchiAPI\HexaArchi.API.csproj", "{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchi.Domain", "HexaArchiDomain\HexaArchi.Domain.csproj", "{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchi.SharedKarnel", "HexaArchiSharedKarnel\HexaArchi.SharedKarnel.csproj", "{9CF544ED-E010-4FA0-9132-68B1AF46C809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchi.Infrastructure", "HexaArchiInfrastructure\HexaArchi.Infrastructure.csproj", "{232A0162-E13E-4DBF-AB59-2B02B6238C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaArchi.Application", "HexaArchiApplication\HexaArchi.Application.csproj", "{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF544ED-E010-4FA0-9132-68B1AF46C809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF544ED-E010-4FA0-9132-68B1AF46C809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF544ED-E010-4FA0-9132-68B1AF46C809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF544ED-E010-4FA0-9132-68B1AF46C809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232A0162-E13E-4DBF-AB59-2B02B6238C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232A0162-E13E-4DBF-AB59-2B02B6238C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232A0162-E13E-4DBF-AB59-2B02B6238C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232A0162-E13E-4DBF-AB59-2B02B6238C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D17B980-5CAF-4485-8F9E-7B2F17525F86}
+	EndGlobalSection
+EndGlobal

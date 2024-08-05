@@ -1,0 +1,1311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchisharedkarnel\\configuration\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|solutionrelative:hexaarchisharedkarnel\\configuration\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\messaging\\publisher\\rabbitmqmessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\messaging\\publisher\\rabbitmqmessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\messaging\\consumer\\rabbitmqmessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\messaging\\consumer\\rabbitmqmessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\services\\writingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\services\\writingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\controllers\\writingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\controllers\\writingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\ports\\driving\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\ports\\driving\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\ports\\driven\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\ports\\driven\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\hexaarchi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\hexaarchi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchisharedkarnel\\hexaarchi.sharedkarnel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|solutionrelative:hexaarchisharedkarnel\\hexaarchi.sharedkarnel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchidomain\\hexaarchi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|solutionrelative:hexaarchidomain\\hexaarchi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\hexaarchi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\hexaarchi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\hexaarchi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\hexaarchi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\extensions\\diextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\extensions\\diextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\getauthorbyid.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\getauthorbyid.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchidomain\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|solutionrelative:hexaarchidomain\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\getarticlebyid.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\getarticlebyid.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\getauthorbyid.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\getauthorbyid.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\getallarticle.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\getallarticle.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\ports\\driven\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\ports\\driven\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapi\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D28D8A-EAD6-4BE9-8038-F05F4CA945E2}|HexaArchiAPI\\HexaArchi.API.csproj|solutionrelative:hexaarchiapi\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchidomain\\models\\writingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|solutionrelative:hexaarchidomain\\models\\writingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\ports\\driven\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\ports\\driven\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchidomain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|solutionrelative:hexaarchidomain\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchisharedkarnel\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|solutionrelative:hexaarchisharedkarnel\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchisharedkarnel\\models\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|solutionrelative:hexaarchisharedkarnel\\models\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\putauthorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\putauthorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\putarticlerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\putarticlerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\mappings\\authormappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\mappings\\authormappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\getallauthor.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\getallauthor.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\getallarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\getallarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchidomain\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|solutionrelative:hexaarchidomain\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\migrations\\20240731115111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\migrations\\20240731115111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\data\\configurations\\articleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\data\\configurations\\articleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiinfrastructure\\data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A0162-E13E-4DBF-AB59-2B02B6238C0E}|HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj|solutionrelative:hexaarchiinfrastructure\\data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\mappings\\writingmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\mappings\\writingmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\mappings\\articlemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\mappings\\articlemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\ports\\driving\\iwritingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\ports\\driving\\iwritingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\ports\\driving\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\ports\\driving\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchisharedkarnel\\entities\\parententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|solutionrelative:hexaarchisharedkarnel\\entities\\parententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchidomain\\models\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|solutionrelative:hexaarchidomain\\models\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\putarticleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\putarticleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\postarticle.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\postarticle.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\postarticle.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\postarticle.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\getarticlebyid.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\getarticlebyid.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\getarticlebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\getarticlebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\deletearticle.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\deletearticle.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\deletearticle.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\deletearticle.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\putauthorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\putauthorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\getauthorbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\getauthorbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\postauthor.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\postauthor.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\postauthor.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\postauthor.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\writingdto\\startwritingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\writingdto\\startwritingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\writingdto\\changearticlestatus.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\writingdto\\changearticlestatus.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\writingdto\\changearticlestatus.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\writingdto\\changearticlestatus.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\writingdto\\startwritingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\writingdto\\startwritingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\writingdto\\startwriting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\writingdto\\startwriting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\writingdto\\changearticlestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\writingdto\\changearticlestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\deleteauthor.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\deleteauthor.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\deleteauthor.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\deleteauthor.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\putauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\putauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\putarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\putarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\articledto\\deletearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\articledto\\deletearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\deleteauthor.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\deleteauthor.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\postauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\postauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchiapplication\\dtos\\authordto\\getallauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D60C337-CEA7-4AF1-ACE6-2199C2C0BDD2}|HexaArchiApplication\\HexaArchi.Application.csproj|solutionrelative:hexaarchiapplication\\dtos\\authordto\\getallauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchidomain\\hexaarchi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{00DC3B3B-D4DD-4213-92CF-15C06C66DAAB}|HexaArchiDomain\\HexaArchi.Domain.csproj|solutionrelative:hexaarchidomain\\hexaarchi.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\hexaarchi\\hexaarchisharedkarnel\\hexaarchi.sharedkarnel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9CF544ED-E010-4FA0-9132-68B1AF46C809}|HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj|solutionrelative:hexaarchisharedkarnel\\hexaarchi.sharedkarnel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:40:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:40:31.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMqMessageConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Messaging\\Consumer\\RabbitMqMessageConsumer.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Messaging\\Consumer\\RabbitMqMessageConsumer.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Messaging\\Consumer\\RabbitMqMessageConsumer.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Messaging\\Consumer\\RabbitMqMessageConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:04:21.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMqMessagePublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Messaging\\Publisher\\RabbitMqMessagePublisher.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Messaging\\Publisher\\RabbitMqMessagePublisher.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Messaging\\Publisher\\RabbitMqMessagePublisher.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Messaging\\Publisher\\RabbitMqMessagePublisher.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:53:39.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HexaArchiAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T20:49:53.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Configuration\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "HexaArchiSharedKarnel\\Configuration\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Configuration\\RabbitMQSettings.cs",
+              "RelativeToolTip": "HexaArchiSharedKarnel\\Configuration\\RabbitMQSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:58:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WritingService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Services\\WritingService.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Services\\WritingService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Services\\WritingService.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Services\\WritingService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:32:33.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Services\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Services\\ArticleService.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Services\\ArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:31:52.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Services\\AuthorService.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Services\\AuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:32:16.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "HexaArchiAPI\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:04:57.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "HexaArchiAPI\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:26:20.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WritingController.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\WritingController.cs",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Controllers\\WritingController.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\WritingController.cs",
+              "RelativeToolTip": "HexaArchiAPI\\Controllers\\WritingController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:05:14.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "HexaArchiAPI\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:04:19.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driving\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Ports\\Driving\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driving\\IAuthorService.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Ports\\Driving\\IAuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:15:31.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driven\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Ports\\Driven\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driven\\IAuthorRepository.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Ports\\Driven\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:12:59.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HexaArchi.SharedKarnel.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "RelativeDocumentMoniker": "HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "RelativeToolTip": "HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:26:17.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HexaArchi.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj",
+              "RelativeToolTip": "HexaArchiInfrastructure\\HexaArchi.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T19:48:28.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HexaArchi.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "RelativeDocumentMoniker": "HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "RelativeToolTip": "HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:24:41.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HexaArchi.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\HexaArchi.Application.csproj",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\HexaArchi.Application.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\HexaArchi.Application.csproj",
+              "RelativeToolTip": "HexaArchiApplication\\HexaArchi.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:25:46.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HexaArchi.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\HexaArchi.API.csproj",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\HexaArchi.API.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\HexaArchi.API.csproj",
+              "RelativeToolTip": "HexaArchiAPI\\HexaArchi.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:20:09.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Program.cs",
+              "RelativeToolTip": "HexaArchiAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:17:58.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DIExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Extensions\\DIExtension.cs",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Extensions\\DIExtension.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Extensions\\DIExtension.cs",
+              "RelativeToolTip": "HexaArchiAPI\\Extensions\\DIExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:11:51.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAuthorById.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:51:47.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "HexaArchiDomain\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Author.cs",
+              "RelativeToolTip": "HexaArchiDomain\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:35:19.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetArticleById.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:05:52.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAuthorById.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Request.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Request.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:51:36.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllArticle.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:00:10.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:49:24.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driven\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Ports\\Driven\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driven\\IArticleRepository.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Ports\\Driven\\IArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:12:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\appsettings.json",
+              "RelativeToolTip": "HexaArchiAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T20:18:28.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Models\\Pagination.cs",
+              "RelativeDocumentMoniker": "HexaArchiAPI\\Models\\Pagination.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiAPI\\Models\\Pagination.cs",
+              "RelativeToolTip": "HexaArchiAPI\\Models\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:35:24.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WritingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\WritingStatus.cs",
+              "RelativeDocumentMoniker": "HexaArchiDomain\\Models\\WritingStatus.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\WritingStatus.cs",
+              "RelativeToolTip": "HexaArchiDomain\\Models\\WritingStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:36:06.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IMessagePublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driven\\IMessagePublisher.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Ports\\Driven\\IMessagePublisher.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driven\\IMessagePublisher.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Ports\\Driven\\IMessagePublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:13:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "HexaArchiDomain\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Message.cs",
+              "RelativeToolTip": "HexaArchiDomain\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:35:48.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HexaArchiSharedKarnel\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "HexaArchiSharedKarnel\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:45:36.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Models\\PagedList.cs",
+              "RelativeDocumentMoniker": "HexaArchiSharedKarnel\\Models\\PagedList.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Models\\PagedList.cs",
+              "RelativeToolTip": "HexaArchiSharedKarnel\\Models\\PagedList.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:46:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PutAuthorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorRequest.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorRequest.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorRequest.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:55:19.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PutArticleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleRequest.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleRequest.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleRequest.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:05:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthorMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Mappings\\AuthorMappingProfile.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Mappings\\AuthorMappingProfile.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Mappings\\AuthorMappingProfile.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Mappings\\AuthorMappingProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:18:47.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAllAuthor.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:51:00.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetAllArticle.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetAllArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:26:15.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "HexaArchiDomain\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Article.cs",
+              "RelativeToolTip": "HexaArchiDomain\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:35:09.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240731115111_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Migrations\\20240731115111_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Migrations\\20240731115111_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Migrations\\20240731115111_InitialCreate.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Migrations\\20240731115111_InitialCreate.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwDMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:51:12.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:43:57.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ArticleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Data\\Configurations\\ArticleConfiguration.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Data\\Configurations\\ArticleConfiguration.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Data\\Configurations\\ArticleConfiguration.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Data\\Configurations\\ArticleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:53:37.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Data\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "HexaArchiInfrastructure\\Data\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiInfrastructure\\Data\\Configurations\\AuthorConfiguration.cs",
+              "RelativeToolTip": "HexaArchiInfrastructure\\Data\\Configurations\\AuthorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:53:21.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WritingMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Mappings\\WritingMappingProfile.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Mappings\\WritingMappingProfile.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Mappings\\WritingMappingProfile.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Mappings\\WritingMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:16:54.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ArticleMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Mappings\\ArticleMappingProfile.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Mappings\\ArticleMappingProfile.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Mappings\\ArticleMappingProfile.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Mappings\\ArticleMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:19:04.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IWritingService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driving\\IWritingService.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Ports\\Driving\\IWritingService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driving\\IWritingService.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Ports\\Driving\\IWritingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:15:45.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driving\\IArticleService.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\Ports\\Driving\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\Ports\\Driving\\IArticleService.cs",
+              "RelativeToolTip": "HexaArchiApplication\\Ports\\Driving\\IArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:15:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ParentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Entities\\ParentEntity.cs",
+              "RelativeDocumentMoniker": "HexaArchiSharedKarnel\\Entities\\ParentEntity.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\Entities\\ParentEntity.cs",
+              "RelativeToolTip": "HexaArchiSharedKarnel\\Entities\\ParentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:45:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Difficulty.cs",
+              "RelativeDocumentMoniker": "HexaArchiDomain\\Models\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\Models\\Difficulty.cs",
+              "RelativeToolTip": "HexaArchiDomain\\Models\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:35:33.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PutArticleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleResponse.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleResponse.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleResponse.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticleResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:22:56.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PostArticle.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:04:21.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PostArticle.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Request.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Request.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\PostArticle.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:04:14.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetArticleById.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Request.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Request.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:00:43.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetArticleById.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\GetArticleById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:00:41.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DeleteArticle.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Request.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Request.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:59:19.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DeleteArticle.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:59:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PutAuthorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorResponse.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorResponse.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorResponse.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:55:34.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetAuthorById.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAuthorById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:51:22.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PostAuthor.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:52:28.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PostAuthor.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Request.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Request.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:52:15.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "StartWritingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingRequest.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingRequest.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingRequest.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:00:27.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ChangeArticleStatus.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:58:42.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ChangeArticleStatus.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Request.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Request.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:58:15.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "StartWritingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingResponse.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingResponse.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingResponse.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\WritingDTO\\StartWritingResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:00:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "StartWriting.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\StartWriting.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\WritingDTO\\StartWriting.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\StartWriting.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\WritingDTO\\StartWriting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:00:02.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ChangeArticleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\WritingDTO\\ChangeArticleStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:58:04.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DeleteAuthor.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Response.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Response.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:57:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeleteAuthor.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Request.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Request.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:57:22.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PutAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthor.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthor.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthor.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\PutAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:55:05.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PutArticle.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticle.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticle.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticle.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\PutArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:04:46.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DeleteArticle.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\ArticleDTO\\DeleteArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:59:38.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DeleteAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\DeleteAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:55:50.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PostAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\PostAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:52:01.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GetAllAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.cs",
+              "RelativeDocumentMoniker": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.cs",
+              "RelativeToolTip": "HexaArchiApplication\\DTOs\\AuthorDTO\\GetAllAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:31:04.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HexaArchi.Domain",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "RelativeDocumentMoniker": "HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "RelativeToolTip": "HexaArchiDomain\\HexaArchi.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:25:41.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "HexaArchi.SharedKarnel",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "RelativeDocumentMoniker": "HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\HexaArchi\\HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "RelativeToolTip": "HexaArchiSharedKarnel\\HexaArchi.SharedKarnel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T20:25:34.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

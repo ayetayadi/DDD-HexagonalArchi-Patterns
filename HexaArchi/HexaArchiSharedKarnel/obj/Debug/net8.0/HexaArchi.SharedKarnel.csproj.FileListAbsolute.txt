@@ -1,0 +1,12 @@
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\bin\Debug\net8.0\HexaArchi.SharedKarnel.deps.json
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\bin\Debug\net8.0\HexaArchi.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\bin\Debug\net8.0\HexaArchi.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\HexaArchi.SharedKarnel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\HexaArchi.SharedKarnel.AssemblyInfoInputs.cache
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\HexaArchi.SharedKarnel.AssemblyInfo.cs
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\HexaArchi.SharedKarnel.csproj.CoreCompileInputs.cache
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\HexaArchi.SharedKarnel.sourcelink.json
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\HexaArchi.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\refint\HexaArchi.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\HexaArchi.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiSharedKarnel\obj\Debug\net8.0\ref\HexaArchi.SharedKarnel.dll

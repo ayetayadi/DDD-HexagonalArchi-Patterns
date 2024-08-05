@@ -1,0 +1,16 @@
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.AssemblyInfoInputs.cache
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.AssemblyInfo.cs
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.sourcelink.json
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\bin\Debug\net8.0\HexaArchi.Domain.deps.json
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\bin\Debug\net8.0\HexaArchi.Domain.dll
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\bin\Debug\net8.0\HexaArchi.Domain.pdb
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\bin\Debug\net8.0\HexaArchi.SharedKarnel.dll
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\bin\Debug\net8.0\HexaArchi.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.csproj.AssemblyReference.cache
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArch.BF0411DB.Up2Date
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.dll
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\refint\HexaArchi.Domain.dll
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\HexaArchi.Domain.pdb
+C:\Users\ayeta\source\repos\HexaArchi\HexaArchiDomain\obj\Debug\net8.0\ref\HexaArchi.Domain.dll
