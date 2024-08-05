@@ -1,0 +1,12 @@
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\BookFetcher.SharedKarnel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\BookFetcher.SharedKarnel.AssemblyInfoInputs.cache
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\BookFetcher.SharedKarnel.AssemblyInfo.cs
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\BookFetcher.SharedKarnel.csproj.CoreCompileInputs.cache
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\BookFetcher.SharedKarnel.sourcelink.json
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\bin\Debug\net8.0\BookFetcher.SharedKarnel.deps.json
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\bin\Debug\net8.0\BookFetcher.SharedKarnel.dll
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\bin\Debug\net8.0\BookFetcher.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\BookFetcher.SharedKarnel.dll
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\refint\BookFetcher.SharedKarnel.dll
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\BookFetcher.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherSharedKarnel\obj\Debug\net8.0\ref\BookFetcher.SharedKarnel.dll

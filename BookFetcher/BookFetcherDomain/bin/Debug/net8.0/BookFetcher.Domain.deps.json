@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookFetcher.Domain/1.0.0": {
+        "dependencies": {
+          "BookFetcher.SharedKarnel": "1.0.0"
+        },
+        "runtime": {
+          "BookFetcher.Domain.dll": {}
+        }
+      },
+      "BookFetcher.SharedKarnel/1.0.0": {
+        "runtime": {
+          "BookFetcher.SharedKarnel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookFetcher.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookFetcher.SharedKarnel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

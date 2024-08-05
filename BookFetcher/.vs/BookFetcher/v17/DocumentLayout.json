@@ -1,0 +1,652 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherinfrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|solutionrelative:bookfetcherinfrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherinfrastructure\\adapters\\paymentprocessoradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|solutionrelative:bookfetcherinfrastructure\\adapters\\paymentprocessoradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherinfrastructure\\thirdparties\\thirdpartypaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|solutionrelative:bookfetcherinfrastructure\\thirdparties\\thirdpartypaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\paymentdto\\payment.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\paymentdto\\payment.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\paymentdto\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\paymentdto\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\deletebook.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\deletebook.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\deletebook.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\deletebook.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\getallbook.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\getallbook.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\ports\\driving\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\ports\\driving\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\ports\\driven\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\ports\\driven\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\ports\\driving\\ibookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\ports\\driving\\ibookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\postbook.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\postbook.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\postbook.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\postbook.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\ports\\driving\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\ports\\driving\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\extensions\\diextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\extensions\\diextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherinfrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|solutionrelative:bookfetcherinfrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherinfrastructure\\bookfetcher.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|solutionrelative:bookfetcherinfrastructure\\bookfetcher.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0412CCB-3B51-4DFB-AA4A-58B257AB3267}|BookFetcherDomain\\BookFetcher.Domain.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherdomain\\bookfetcher.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0412CCB-3B51-4DFB-AA4A-58B257AB3267}|BookFetcherDomain\\BookFetcher.Domain.csproj|solutionrelative:bookfetcherdomain\\bookfetcher.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\bookfetcher.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\bookfetcher.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\bookfetcher.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\bookfetcher.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapi\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A0941B-89C3-43CB-8C4E-7769B3CCE199}|BookFetcherAPI\\BookFetcher.API.csproj|solutionrelative:bookfetcherapi\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetchersharedkarnel\\models\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|solutionrelative:bookfetchersharedkarnel\\models\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ayeta\\source\\repos\\BookFetcher - Copie\\BookFetcherApplication\\Services\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\factory\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\factory\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0412CCB-3B51-4DFB-AA4A-58B257AB3267}|BookFetcherDomain\\BookFetcher.Domain.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherdomain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0412CCB-3B51-4DFB-AA4A-58B257AB3267}|BookFetcherDomain\\BookFetcher.Domain.csproj|solutionrelative:bookfetcherdomain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\getbookbyid.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\getbookbyid.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\getbookbyid.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\getbookbyid.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherapplication\\dtos\\bookdto\\getallbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99FEAEC-747E-4973-A9AA-838D5CC698A0}|BookFetcherApplication\\BookFetcher.Application.csproj|solutionrelative:bookfetcherapplication\\dtos\\bookdto\\getallbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetchersharedkarnel\\entities\\parententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|solutionrelative:bookfetchersharedkarnel\\entities\\parententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetchersharedkarnel\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|solutionrelative:bookfetchersharedkarnel\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetchersharedkarnel\\bookfetcher.sharedkarnel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{681704D6-AAA1-4BF0-A254-DF1E2A68D763}|BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj|solutionrelative:bookfetchersharedkarnel\\bookfetcher.sharedkarnel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|c:\\users\\ayeta\\source\\repos\\bookfetcher\\bookfetcherinfrastructure\\migrations\\20240801193642_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EC1378-F5C2-4D4B-82C9-620FDB90884E}|BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj|solutionrelative:bookfetcherinfrastructure\\migrations\\20240801193642_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentProcessorAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\Adapters\\PaymentProcessorAdapter.cs",
+              "RelativeDocumentMoniker": "BookFetcherInfrastructure\\Adapters\\PaymentProcessorAdapter.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\Adapters\\PaymentProcessorAdapter.cs",
+              "RelativeToolTip": "BookFetcherInfrastructure\\Adapters\\PaymentProcessorAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:12:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThirdPartyPaymentGateway.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\ThirdParties\\ThirdPartyPaymentGateway.cs",
+              "RelativeDocumentMoniker": "BookFetcherInfrastructure\\ThirdParties\\ThirdPartyPaymentGateway.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\ThirdParties\\ThirdPartyPaymentGateway.cs",
+              "RelativeToolTip": "BookFetcherInfrastructure\\ThirdParties\\ThirdPartyPaymentGateway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:08:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookFetcherAPI\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:28:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "BookFetcherAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:33:20.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Services\\BookService.cs",
+              "RelativeToolTip": "BookFetcherApplication\\Services\\BookService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:13:46.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookFetcherInfrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookFetcherInfrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:06:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\PaymentDTO\\Payment.Request.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\PaymentDTO\\Payment.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\PaymentDTO\\Payment.Request.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\PaymentDTO\\Payment.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:35:43.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteBook.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Response.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Response.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:48:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteBook.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Request.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Request.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\DeleteBook.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:48:28.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\appsettings.json",
+              "RelativeToolTip": "BookFetcherAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T17:40:23.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookFetcherAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T19:35:17.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\PaymentDTO\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\PaymentDTO\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\PaymentDTO\\PaymentResponse.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\PaymentDTO\\PaymentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:39:35.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllBook.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.Response.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.Response.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:50:48.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driving\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\Ports\\Driving\\IBookService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driving\\IBookService.cs",
+              "RelativeToolTip": "BookFetcherApplication\\Ports\\Driving\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:28:02.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driven\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\Ports\\Driven\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driven\\IBookRepository.cs",
+              "RelativeToolTip": "BookFetcherApplication\\Ports\\Driven\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:03:31.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driving\\IBookFactory.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\Ports\\Driving\\IBookFactory.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driving\\IBookFactory.cs",
+              "RelativeToolTip": "BookFetcherApplication\\Ports\\Driving\\IBookFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:46:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostBook.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Response.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Response.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:45:34.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostBook.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Request.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Request.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\PostBook.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:53:50.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driving\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\Ports\\Driving\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Ports\\Driving\\IPaymentProcessor.cs",
+              "RelativeToolTip": "BookFetcherApplication\\Ports\\Driving\\IPaymentProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:06:55.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DIExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Extensions\\DIExtension.cs",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\Extensions\\DIExtension.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Extensions\\DIExtension.cs",
+              "RelativeToolTip": "BookFetcherAPI\\Extensions\\DIExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:17:20.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Program.cs",
+              "RelativeToolTip": "BookFetcherAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:25:34.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookFetcher.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj",
+              "RelativeToolTip": "BookFetcherInfrastructure\\BookFetcher.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T14:52:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookFetcherInfrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "BookFetcherInfrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:33:31.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookFetcher.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherDomain\\BookFetcher.Domain.csproj",
+              "RelativeDocumentMoniker": "BookFetcherDomain\\BookFetcher.Domain.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherDomain\\BookFetcher.Domain.csproj",
+              "RelativeToolTip": "BookFetcherDomain\\BookFetcher.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T19:34:07.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookFetcher.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\BookFetcher.Application.csproj",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\BookFetcher.Application.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\BookFetcher.Application.csproj",
+              "RelativeToolTip": "BookFetcherApplication\\BookFetcher.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T19:32:47.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookFetcher.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\BookFetcher.API.csproj",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\BookFetcher.API.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\BookFetcher.API.csproj",
+              "RelativeToolTip": "BookFetcherAPI\\BookFetcher.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T19:21:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Models\\Pagination.cs",
+              "RelativeDocumentMoniker": "BookFetcherAPI\\Models\\Pagination.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherAPI\\Models\\Pagination.cs",
+              "RelativeToolTip": "BookFetcherAPI\\Models\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:39:47.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\Models\\PagedList.cs",
+              "RelativeDocumentMoniker": "BookFetcherSharedKarnel\\Models\\PagedList.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\Models\\PagedList.cs",
+              "RelativeToolTip": "BookFetcherSharedKarnel\\Models\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:32:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher - Copie\\BookFetcherApplication\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\BookFetcher - Copie\\BookFetcherApplication\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher - Copie\\BookFetcherApplication\\Services\\BookService.cs",
+              "RelativeToolTip": "..\\BookFetcher - Copie\\BookFetcherApplication\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:22:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Factory\\BookFactory.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\Factory\\BookFactory.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\Factory\\BookFactory.cs",
+              "RelativeToolTip": "BookFetcherApplication\\Factory\\BookFactory.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:49:19.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherDomain\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookFetcherDomain\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherDomain\\Models\\Book.cs",
+              "RelativeToolTip": "BookFetcherDomain\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:48:25.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240801193642_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\Migrations\\20240801193642_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BookFetcherInfrastructure\\Migrations\\20240801193642_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherInfrastructure\\Migrations\\20240801193642_InitialCreate.cs",
+              "RelativeToolTip": "BookFetcherInfrastructure\\Migrations\\20240801193642_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:36:43.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetBookById.Request.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Request.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Request.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Request.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:52:01.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetBookById.Response.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Response.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Response.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Response.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\GetBookById.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:52:28.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllBook.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.cs",
+              "RelativeDocumentMoniker": "BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.cs",
+              "RelativeToolTip": "BookFetcherApplication\\DTOs\\BookDTO\\GetAllBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:50:47.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ParentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\Entities\\ParentEntity.cs",
+              "RelativeDocumentMoniker": "BookFetcherSharedKarnel\\Entities\\ParentEntity.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\Entities\\ParentEntity.cs",
+              "RelativeToolTip": "BookFetcherSharedKarnel\\Entities\\ParentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:32:09.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BookFetcherSharedKarnel\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BookFetcherSharedKarnel\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:31:35.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookFetcher.SharedKarnel.csproj",
+              "DocumentMoniker": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj",
+              "RelativeDocumentMoniker": "BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj",
+              "ToolTip": "C:\\Users\\ayeta\\source\\repos\\BookFetcher\\BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj",
+              "RelativeToolTip": "BookFetcherSharedKarnel\\BookFetcher.SharedKarnel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T13:30:41.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

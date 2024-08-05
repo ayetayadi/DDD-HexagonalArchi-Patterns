@@ -1,0 +1,16 @@
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.AssemblyInfoInputs.cache
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.AssemblyInfo.cs
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.sourcelink.json
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\bin\Debug\net8.0\BookFetcher.Domain.deps.json
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\bin\Debug\net8.0\BookFetcher.Domain.dll
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\bin\Debug\net8.0\BookFetcher.Domain.pdb
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\bin\Debug\net8.0\BookFetcher.SharedKarnel.dll
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\bin\Debug\net8.0\BookFetcher.SharedKarnel.pdb
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.csproj.AssemblyReference.cache
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetc.35B5272B.Up2Date
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.dll
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\refint\BookFetcher.Domain.dll
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\BookFetcher.Domain.pdb
+C:\Users\ayeta\source\repos\BookFetcher\BookFetcherDomain\obj\Debug\net8.0\ref\BookFetcher.Domain.dll
